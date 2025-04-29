@@ -1,1 +1,1 @@
-# careerNameAnime
+This is an Auto text Animation that portraits different kinds of careers within the university section.it portraits as "I AM ${work career} 
